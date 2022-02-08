@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "texipy"
-version = "0.1.0"
+name = "TeXiPy"
+version = "0.1.1"
 description = "Python for LaTeX"
 authors = ["Praveen Kulkarni <praveenneuron@gmail.com>"]
 license = "BSD"
